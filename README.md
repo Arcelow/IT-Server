@@ -1,1 +1,1 @@
-"# IT-Server" 
+# IT Minecraft Server
