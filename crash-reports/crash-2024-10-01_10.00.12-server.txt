@@ -1,0 +1,71 @@
+---- Minecraft Crash Report ----
+// There are four lights!
+
+Time: 2024-10-01 10:00:12
+Description: Exception in server tick loop
+
+com.google.gson.JsonSyntaxException: Expected entry to be a JsonObject, was "Ras...22"
+	at aye.m(SourceFile:414)
+	at auw.f(SourceFile:124)
+	at apm.z(SourceFile:85)
+	at apm.<init>(SourceFile:24)
+	at apn.e(SourceFile:175)
+	at net.minecraft.server.MinecraftServer.y(SourceFile:664)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:281)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.1
+	Minecraft Version ID: 1.21.1
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 22.0.1, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 8162382544 bytes (7784 MiB) / 8589934592 bytes (8192 MiB) up to 8589934592 bytes (8192 MiB)
+	CPUs: 16
+	Processor Vendor: GenuineIntel
+	Processor Name: 11th Gen Intel(R) Core(TM) i7-11700K @ 3.60GHz
+	Identifier: Intel64 Family 6 Model 167 Stepping 1
+	Microarchitecture: Rocket Lake
+	Frequency (GHz): 3.60
+	Number of physical packages: 1
+	Number of physical CPUs: 8
+	Number of logical CPUs: 16
+	Graphics card #0 name: NVIDIA GeForce RTX 3070
+	Graphics card #0 vendor: NVIDIA
+	Graphics card #0 VRAM (MiB): 8192.00
+	Graphics card #0 deviceId: VideoController1
+	Graphics card #0 versionInfo: 31.0.15.5168
+	Graphics card #1 name: Intel(R) UHD Graphics 750
+	Graphics card #1 vendor: Intel Corporation
+	Graphics card #1 VRAM (MiB): 128.00
+	Graphics card #1 deviceId: VideoController2
+	Graphics card #1 versionInfo: 31.0.101.5186
+	Memory slot #0 capacity (MiB): 8192.00
+	Memory slot #0 clockSpeed (GHz): 3.20
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MiB): 8192.00
+	Memory slot #1 clockSpeed (GHz): 3.20
+	Memory slot #1 type: DDR4
+	Virtual memory max (MiB): 32489.07
+	Virtual memory used (MiB): 20685.82
+	Swap memory total (MiB): 16384.00
+	Swap memory used (MiB): 523.42
+	Space in storage for jna.tmpdir (MiB): <path not set>
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): <path not set>
+	Space in storage for io.netty.native.workdir (MiB): <path not set>
+	Space in storage for java.io.tmpdir (MiB): available: 501823.88, total: 974014.00
+	Space in storage for workdir (MiB): available: 501823.88, total: 974014.00
+	JVM Flags: 2 total; -Xms8192M -Xmx8192M
+	Server Running: true
+	Active Data Packs: vanilla
+	Available Data Packs: bundle, trade_rebalance, vanilla
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Stable
+	World Seed: 1662717146957437964
+	Is Modded: Probably not. Server jar signature and brand is untouched
+	Type: Dedicated Server (map_server.txt)

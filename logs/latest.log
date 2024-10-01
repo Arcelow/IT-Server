@@ -1,0 +1,149 @@
+[10:10:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:10:02] [ServerMain/INFO]: Loaded 1290 recipes
+[10:10:02] [ServerMain/INFO]: Loaded 1399 advancements
+[10:10:02] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[10:10:02] [Server thread/INFO]: Loading properties
+[10:10:02] [Server thread/INFO]: Default game type: SURVIVAL
+[10:10:02] [Server thread/INFO]: Generating keypair
+[10:10:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:10:02] [Server thread/INFO]: Using default channel type
+[10:10:02] [Server thread/INFO]: Preparing level "world"
+[10:10:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:10:03] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:10:03] [Server thread/INFO]: Time elapsed: 336 ms
+[10:10:03] [Server thread/INFO]: Done (0.976s)! For help, type "help"
+[10:10:43] [User Authenticator #1/INFO]: UUID of player Arcelow is ca4d663c-3804-42f0-98fa-eb513aea8e94
+[10:10:44] [Server thread/INFO]: Arcelow[/172.16.42.144:65417] logged in with entity id 65 at (-165.69999998807907, 20.0, 1319.699999988079)
+[10:10:44] [Server thread/INFO]: Arcelow joined the game
+[10:10:45] [User Authenticator #2/INFO]: UUID of player ALEX776223 is 9ff7a168-f21b-496c-bf6e-c37742a86832
+[10:10:46] [Server thread/INFO]: ALEX776223[/172.16.41.14:51063] logged in with entity id 217 at (12.300000011920929, 62.0, 38.30000001192093)
+[10:10:46] [Server thread/INFO]: ALEX776223 joined the game
+[10:11:10] [User Authenticator #3/INFO]: UUID of player AQuartzyMan is 2d14f679-3b30-4ec9-9fcd-cb06064d1252
+[10:11:11] [Server thread/INFO]: AQuartzyMan[/172.16.41.24:62089] logged in with entity id 861 at (-179.63451515538586, 68.0, 164.84857145494368)
+[10:11:11] [Server thread/INFO]: AQuartzyMan joined the game
+[10:11:33] [User Authenticator #4/INFO]: UUID of player s__t is ee690839-3f75-43ca-b896-43174112a560
+[10:11:34] [Server thread/INFO]: s__t[/172.16.42.187:51546] logged in with entity id 1267 at (-24.30000001192093, 70.0, 51.40287775094859)
+[10:11:34] [Server thread/INFO]: s__t joined the game
+[10:11:57] [Server thread/INFO]: AQuartzyMan has made the advancement [Monster Hunter]
+[10:12:03] [Server thread/INFO]: AQuartzyMan was slain by Zombie
+[10:12:06] [Server thread/WARN]: Arcelow moved too quickly! -0.317158013698446,-11.19488575461997,-2.326538947776271
+[10:12:51] [User Authenticator #5/INFO]: UUID of player zachary17556ALT is 5af067c7-4409-4dbe-9ed2-730cb53f2e22
+[10:12:51] [Server thread/WARN]: AQuartzyMan moved too quickly! -3.950017077845118,0.756759288177264,9.353954067506933
+[10:12:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2470ms or 49 ticks behind
+[10:12:53] [Server thread/INFO]: zachary17556ALT[/172.16.42.146:61364] logged in with entity id 2141 at (-16.459132167494285, 74.0, 606.6712168150509)
+[10:12:53] [Server thread/INFO]: zachary17556ALT joined the game
+[10:12:56] [Server thread/INFO]: Arcelow has made the advancement [Diamonds!]
+[10:13:25] [Server thread/INFO]: ALEX776223 lost connection: Disconnected
+[10:13:25] [Server thread/INFO]: ALEX776223 left the game
+[10:13:27] [User Authenticator #6/INFO]: UUID of player ALEX776223 is 9ff7a168-f21b-496c-bf6e-c37742a86832
+[10:13:28] [Server thread/INFO]: ALEX776223[/172.16.41.14:51119] logged in with entity id 2882 at (-66.16854385771217, 89.0, 163.9825051761045)
+[10:13:28] [Server thread/INFO]: ALEX776223 joined the game
+[10:13:38] [Server thread/INFO]: s__t was shot by Skeleton
+[10:13:40] [Server thread/WARN]: s__t moved too quickly! 5.202950116597059,4.0,-9.800000011920929
+[10:13:42] [Server thread/INFO]: <s__t> ow
+[10:13:57] [Server thread/INFO]: s__t was shot by Skeleton
+[10:13:58] [Server thread/WARN]: s__t moved too quickly! -12.944748296182153,11.0,-26.36569011591105
+[10:13:58] [Server thread/WARN]: s__t moved too quickly! -12.944748296182153,11.0,-26.36569011591105
+[10:13:58] [Server thread/WARN]: s__t moved too quickly! -12.944748296182153,11.0,-26.36569011591105
+[10:14:18] [Server thread/INFO]: zachary17556ALT has made the advancement [Isn't It Iron Pick]
+[10:14:39] [Server thread/INFO]: Arcelow has made the advancement [Ice Bucket Challenge]
+[10:15:12] [Server thread/INFO]: AQuartzyMan was blown up by Creeper
+[10:15:16] [Server thread/WARN]: AQuartzyMan moved too quickly! 338.2917008753888,16.0,-255.19999998807907
+[10:15:24] [Server thread/INFO]: <zachary17556ALT> -34 74 604
+[10:15:27] [Server thread/INFO]: s__t was shot by Skeleton
+[10:15:28] [Server thread/WARN]: s__t moved too quickly! -11.500911548464462,-3.0,-44.19999998807907
+[10:15:28] [Server thread/WARN]: s__t moved too quickly! -11.500911548464462,-3.0,-44.19999998807907
+[10:15:28] [Server thread/WARN]: s__t moved too quickly! -11.500911548464462,-3.0,-44.19999998807907
+[10:15:28] [Server thread/WARN]: s__t moved too quickly! -11.500911548464462,-3.0,-44.19999998807907
+[10:15:28] [Server thread/WARN]: s__t moved too quickly! -11.500911548464462,-3.0,-44.19999998807907
+[10:15:28] [Server thread/WARN]: s__t moved too quickly! -11.500911548464462,-3.0,-44.19999998807907
+[10:17:15] [Server thread/INFO]: zachary17556ALT has made the advancement [Monster Hunter]
+[10:17:15] [Server thread/INFO]: zachary17556ALT was blown up by Creeper
+[10:17:18] [Server thread/WARN]: zachary17556ALT moved too quickly! -18.489332524740682,2.0,-559.8190158505809
+[10:23:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-83, y=56, z=325} jd{x=-82, y=53, z=323}
+[10:23:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-83, y=56, z=325} jd{x=-82, y=53, z=323}
+[10:23:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-83, y=56, z=325} jd{x=-82, y=53, z=323}
+[10:25:07] [Server thread/INFO]: Arcelow has made the advancement [We Need to Go Deeper]
+[10:25:08] [Server thread/WARN]: ALEX776223 moved too quickly! 5.141042446645656,0.20326439933128881,-8.739844102544907
+[10:25:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[10:25:27] [Server thread/INFO]: zachary17556ALT has made the advancement [We Need to Go Deeper]
+[10:25:46] [Server thread/INFO]: <Arcelow> 15 49 79
+[10:25:58] [Server thread/INFO]: <s__t> -16 600
+[10:26:45] [Server thread/INFO]: Arcelow has made the advancement [A Terrible Fortress]
+[10:26:46] [Server thread/INFO]: zachary17556ALT has made the advancement [A Terrible Fortress]
+[10:27:17] [Server thread/INFO]: zachary17556ALT has made the advancement [Suit Up]
+[10:28:36] [Server thread/INFO]: ALEX776223 has made the advancement [Suit Up]
+[10:29:35] [Server thread/INFO]: s__t has made the advancement [Getting an Upgrade]
+[10:30:03] [Server thread/INFO]: Arcelow has made the advancement [Into Fire]
+[10:30:38] [Server thread/INFO]: zachary17556ALT was burned to a crisp while fighting Blaze
+[10:32:21] [Server thread/INFO]: AQuartzyMan lost connection: Disconnected
+[10:32:21] [Server thread/INFO]: AQuartzyMan left the game
+[10:32:36] [Server thread/INFO]: ALEX776223 has made the advancement [Not Today, Thank You]
+[10:32:57] [Server thread/INFO]: zachary17556ALT was burned to a crisp while fighting Blaze
+[10:33:00] [Server thread/WARN]: zachary17556ALT moved too quickly! -201.98535468241508,14.0,423.8538199614861
+[10:33:32] [Server thread/INFO]: zachary17556ALT was slain by Zombie
+[10:33:43] [Server thread/INFO]: ALEX776223 has made the advancement [Sweet Dreams]
+[10:34:34] [Server thread/INFO]: zachary17556ALT was slain by ALEX776223
+[10:34:35] [Server thread/WARN]: zachary17556ALT moved too quickly! -35.72639253441672,5.0,6.2479208052119475
+[10:35:17] [Server thread/INFO]: ALEX776223 has made the advancement [We Need to Go Deeper]
+[10:35:22] [User Authenticator #7/INFO]: UUID of player AQuartzyMan is 2d14f679-3b30-4ec9-9fcd-cb06064d1252
+[10:35:23] [Server thread/INFO]: AQuartzyMan[/172.16.41.24:63257] logged in with entity id 18337 at (-272.30000001192093, 63.0, 448.62166307206917)
+[10:35:23] [Server thread/INFO]: AQuartzyMan joined the game
+[10:35:51] [Server thread/INFO]: AQuartzyMan lost connection: Disconnected
+[10:35:51] [Server thread/INFO]: AQuartzyMan left the game
+[10:36:10] [Server thread/INFO]: ALEX776223 has made the advancement [A Terrible Fortress]
+[10:36:13] [Server thread/INFO]: s__t has made the advancement [Acquire Hardware]
+[10:36:20] [Server thread/INFO]: s__t has made the advancement [Isn't It Iron Pick]
+[10:37:09] [Server thread/INFO]: ALEX776223 lost connection: Disconnected
+[10:37:09] [Server thread/INFO]: ALEX776223 left the game
+[10:37:29] [Server thread/INFO]: zachary17556ALT lost connection: Disconnected
+[10:37:29] [Server thread/INFO]: zachary17556ALT left the game
+[10:37:38] [Server thread/INFO]: Arcelow was slain by Wither Skeleton
+[10:37:59] [Server thread/INFO]: s__t has made the advancement [Suit Up]
+[10:38:01] [Server thread/INFO]: s__t lost connection: Disconnected
+[10:38:01] [Server thread/INFO]: s__t left the game
+[10:38:04] [User Authenticator #8/INFO]: UUID of player zachary17556ALT is 5af067c7-4409-4dbe-9ed2-730cb53f2e22
+[10:38:05] [Server thread/INFO]: zachary17556ALT[/172.16.42.146:61957] logged in with entity id 19621 at (301.6324917092895, 53.0, 193.76131675201614)
+[10:38:05] [Server thread/INFO]: zachary17556ALT joined the game
+[10:38:38] [Server thread/INFO]: zachary17556ALT has made the advancement [Into Fire]
+[10:39:15] [Server thread/INFO]: zachary17556ALT was slain by Wither Skeleton
+[10:39:22] [Server thread/INFO]: zachary17556ALT lost connection: Disconnected
+[10:39:22] [Server thread/INFO]: zachary17556ALT left the game
+[10:39:29] [User Authenticator #9/INFO]: UUID of player ALEX776223 is 9ff7a168-f21b-496c-bf6e-c37742a86832
+[10:39:29] [Server thread/INFO]: ALEX776223[/172.16.41.14:51628] logged in with entity id 20619 at (281.486229374562, 53.0, 193.03671429391983)
+[10:39:29] [Server thread/INFO]: ALEX776223 joined the game
+[10:40:23] [Server thread/INFO]: ALEX776223 has made the advancement [Into Fire]
+[10:40:23] [Server thread/INFO]: ALEX776223 has made the advancement [Ice Bucket Challenge]
+[10:40:24] [Server thread/INFO]: ALEX776223 has made the advancement [Diamonds!]
+[10:40:35] [Server thread/INFO]: Arcelow hit the ground too hard
+[10:40:37] [Server thread/WARN]: Arcelow moved too quickly! -35.05882531142822,13.0,-71.84040974916753
+[10:40:37] [Server thread/WARN]: Arcelow moved too quickly! -35.05882531142822,13.0,-71.84040974916753
+[10:40:37] [Server thread/WARN]: Arcelow moved too quickly! -35.05882531142822,13.0,-71.84040974916753
+[10:40:37] [Server thread/WARN]: Arcelow moved too quickly! -35.05882531142822,13.0,-71.84040974916753
+[10:40:37] [Server thread/WARN]: Arcelow moved too quickly! -35.05882531142822,13.0,-71.84040974916753
+[10:40:37] [Server thread/WARN]: Arcelow moved too quickly! -35.05882531142822,13.0,-71.84040974916753
+[10:40:37] [Server thread/WARN]: Arcelow moved too quickly! -35.05882531142822,13.0,-71.84040974916753
+[10:40:37] [Server thread/WARN]: Arcelow moved too quickly! -35.05882531142822,13.0,-71.84040974916753
+[10:40:37] [Server thread/WARN]: Arcelow moved too quickly! -35.05882531142822,13.0,-71.84040974916753
+[10:40:37] [Server thread/WARN]: Arcelow moved too quickly! -35.05882531142822,13.0,-71.84040974916753
+[10:40:37] [Server thread/WARN]: Arcelow moved too quickly! -35.05882531142822,13.0,-71.84040974916753
+[10:40:37] [Server thread/WARN]: Arcelow moved too quickly! -35.05882531142822,13.0,-71.84040974916753
+[10:41:21] [User Authenticator #10/INFO]: UUID of player zachary17556ALT is 5af067c7-4409-4dbe-9ed2-730cb53f2e22
+[10:41:21] [Server thread/INFO]: zachary17556ALT[/172.16.42.146:62005] logged in with entity id 21547 at (-6.5, 73.0, 604.5)
+[10:41:21] [Server thread/INFO]: zachary17556ALT joined the game
+[10:41:50] [Server thread/INFO]: ALEX776223 lost connection: Disconnected
+[10:41:50] [Server thread/INFO]: ALEX776223 left the game
+[10:41:53] [Server thread/INFO]: zachary17556ALT lost connection: Disconnected
+[10:41:53] [Server thread/INFO]: zachary17556ALT left the game
+[10:42:21] [Server thread/INFO]: <Arcelow> -34 74 604
+[10:43:21] [Server thread/INFO]: Stopping the server
+[10:43:21] [Server thread/INFO]: Stopping server
+[10:43:21] [Server thread/INFO]: Saving players
+[10:43:21] [Server thread/INFO]: Saving worlds
+[10:43:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
